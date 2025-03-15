@@ -1,1 +1,1 @@
-# casasandra_practice
+# Data modeling in Cassandra
